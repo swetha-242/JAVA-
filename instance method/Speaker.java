@@ -1,4 +1,4 @@
-//init properties using 4 different ways == the 4 properties are literals,reference,contructors,non static methos 
+//init properties using 4 different ways == the 4 properties are literals,reference,contructors,non static method
 //Declare a method to print all instance variables
 
 class Speaker
@@ -13,7 +13,7 @@ class Speaker
 		this.brand=brand;
 	}
 	
-	public void setSize(int size)//instance method or non static method
+	public void setSize(int size)//instance method or non static method 
 	{
 		this.size=size;
 	}

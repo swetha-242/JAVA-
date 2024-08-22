@@ -10,6 +10,7 @@ class SimCard
 		price1=price1Local;
 		brand=brandLocal;
 		System.out.println("the SimCard least is created:");
+		
 	}
 }
 
